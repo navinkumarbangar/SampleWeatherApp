@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleWeatherApp</string>
+    <string name="daily">Daily</string>
+    <string name="wind_speed">Wind speed:\u0020</string>
+    <string name="humidity">Humidity:\u0020</string>
+    <string name="cloud_coverage">Cloud coverage:\u0020</string>
+    <string name="error_message_cityName"> Please Enter Valid City Name </string>
+    <string name="city">Enter City Name</string>
+    <string name="Show">Show Weather</string>
+    <string name="current_temprature">Current Temprature</string>
+    <string name="weather_summary">Weather Summary</string>
+    <string name="Close">Close</string>
+</resources>
